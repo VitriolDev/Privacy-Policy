@@ -1,4 +1,5 @@
 PRIVACY POLICY FOR VITRIOL DEMO ON QUEST 2, QUEST PRO, AND QUEST 3
+
 Henceforth the terms 'we', 'us', 'our', 'me', 'myself' and all terms in refference to the party responsible for the creation and publication of VITRIOL DEMO refer to myself, Lee Wilson, and will be updated in the future to include any further individuals or organisations that contribute to the handling of user data as will be outlined in this privacy policy.
 
 VITRIOL DEMO is a game developed by Lee Wilson for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. VITRIOL DEMO does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
@@ -18,6 +19,7 @@ This privacy agreement is effective from the moment you download and install VIT
 Governing Law and Jurisdiction
 
 This privacy policy is governed by the laws applicable in your country of residence, and any disputes related to this policy will be handled under the relevant legal jurisdictions.
+
 USER RIGHTS & DATA PROTECTION
 As VITRIOL DEMO does not collect, store, or process any personal data, you maintain full control over your information. There are no user rights to exercise in relation to personal data, as we do not request or handle any such information.
 
